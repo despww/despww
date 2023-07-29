@@ -6,15 +6,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Despina, a passionate 3D artist and visual storyteller. From the very beginning, I've been fascinated by the magic of transforming imagination into stunning digital art that takes viewers on captivating journeys. Creating immersive 3D worlds is not just a hobby or profession for me; it's a way of life. I thrive on challenges, whether it's mastering the intricacies of 3D modeling, texturing, lighting, or pushing the boundaries of rendering techniques.
 
-* 🌍  I'm based in Athens
-* 🖥️  See my portfolio at [Artstation](http://despinakapoti5.artstation.com/)
-* ✉️  You can contact me at [deppykapo@gmail.com](mailto:deppykapo@gmail.com)
-* 🧠  I'm learning C, SQL, Python
-* 🤝  I'm open to collaborating on 3D/coding projects
-* ⚡  I love singing and dancing
+* 🌍  I'm based in Athens
+* 🖥️  See my portfolio at [Artstation](http://despinakapoti5.artstation.com/)
+* ✉️  You can contact me at [deppykapo@gmail.com](mailto:deppykapo@gmail.com)
+* 🧠  I'm learning C, SQL, Python
+* 🤝  I'm open to collaborating on 3D/coding projects
+* ⚡  I love singing and dancing
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -23,11 +22,9 @@ I'm Despina, a passionate 3D artist and visual storyteller. From the very beginn
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/1041104406856343675" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100087770427318" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/despww" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/despina-kapoti-00ba17200/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://discord.com/users/1041104406856343675" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100087770427318" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/despww" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/despww" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
